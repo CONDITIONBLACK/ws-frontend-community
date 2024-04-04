@@ -25,7 +25,7 @@
     "@types/file-saver": "0.0.0",
     "angular2-logger": "^0.5.1",
     "angular2-modal": "^2.0.2",
-    "angular2-notifications": "^0.4.47",
+    "angular2-notifications": "^0.9.9",
     "angular2-recaptcha": "^0.3.6",
     "bootstrap-sass": "^3.3.7",
     "chart.js": "^2.4.0",
